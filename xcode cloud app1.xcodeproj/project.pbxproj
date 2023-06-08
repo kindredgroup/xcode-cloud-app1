@@ -79,7 +79,7 @@
 		2743A08928C0DA9F00764E61 = {
 			isa = PBXGroup;
 			children = (
-				279686432A31DE8A00429A75 /* WhatToTest.en-US.txt */,
+				279686452A31F47700429A75 /* TestFlight */,
 				2743A0BF28C0F16A00764E61 /* ci_scripts */,
 				2743A09428C0DA9F00764E61 /* xcode cloud app1 */,
 				2743A0A528C0DAA000764E61 /* xcode cloud app1Tests */,
@@ -142,6 +142,14 @@
 				279686422A31DC3E00429A75 /* ci_post_xcodebuild.sh */,
 			);
 			path = ci_scripts;
+			sourceTree = "<group>";
+		};
+		279686452A31F47700429A75 /* TestFlight */ = {
+			isa = PBXGroup;
+			children = (
+				279686432A31DE8A00429A75 /* WhatToTest.en-US.txt */,
+			);
+			path = TestFlight;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
