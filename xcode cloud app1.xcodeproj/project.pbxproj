@@ -45,6 +45,7 @@
 		2743A0B028C0DAA000764E61 /* xcode_cloud_app1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcode_cloud_app1UITests.swift; sourceTree = "<group>"; };
 		2743A0B228C0DAA000764E61 /* xcode_cloud_app1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcode_cloud_app1UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		2743A0C028C0F1BA00764E61 /* ci_post_clone.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = ci_post_clone.sh; sourceTree = "<group>"; };
+		2796863D2A31B23F00429A75 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "xcode cloud app1/Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		2743A08928C0DA9F00764E61 = {
 			isa = PBXGroup;
 			children = (
+				2796863D2A31B23F00429A75 /* Info.plist */,
 				2743A0BF28C0F16A00764E61 /* ci_scripts */,
 				2743A09428C0DA9F00764E61 /* xcode cloud app1 */,
 				2743A0A528C0DAA000764E61 /* xcode cloud app1Tests */,
